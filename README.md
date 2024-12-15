@@ -146,8 +146,13 @@ dataset == https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2
 
 
 pip install kaggle
+
 pip install seaborn
+
 pip install scikit-learn matplotlib seaborn
+
 pip install scikit-learn
+
 pip install numpy
+
 pip install pandas
